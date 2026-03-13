@@ -1,4 +1,5 @@
 # Turntable Arcade Stick
+![arcade stick](https://github.com/user-attachments/assets/90c7c5ab-4b0a-406c-a178-e69161199c24)
 
 ## What is this?
 
@@ -64,8 +65,26 @@ This design also has an easily removable panel on the bottom to service common i
 
 ## How to Assemble
 
-Under construction
+  1. Connect the left, right, front, and back panels such that they form a square.
 
+> *Note:* The left and right panels can be on either side, there's no actual reason for one to be on one side or the other in V1.
+
+  2. Place nuts in the hexagonal hole on the bottom of the 4 side panels.
+
+  3. Use the M3x45mm screws to mount the turntable movement panel and the button panel to the top of the 4 side panels with the indents facing up.
+
+  4. Place your turntable panel in the circular indent in the turntable movement panel with the indents facing up.
+
+  5. Install your buttons, USB passthrough, and joystick (if using joystick).
+
+  6. Wire the installed electronics to your microcontroller/fighting board PCB.
+
+  7. Glue 2 magnets to the indents in the bottom panel and the indents in the left panel,then leave the indents exposed in the open to dry.
+
+  8. Slide the bottom panel to close the arcade stick.
+
+![Example internal for arcade stick](https://github.com/user-attachments/assets/f0dc7469-5015-4602-a921-ed98e92b9e29)
+  
 ## Improvements to make in V2
 
 - Enclosure is a little too small, making it hard to design panels that fit well, will increase bottom panel size to 300mm from 280mm
