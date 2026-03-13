@@ -52,12 +52,8 @@ This design also has an easily removable panel on the bottom to service common i
         -  X3 24mm Screw on Button
  
 - Button Side Printables (Pick One)
-
-     1. Button Panel Classic
-
-        - X8 30mm Screw on Button
   
-     2. Wilson's Preferred Button Layout Panel
+     1. Wilson's Preferred Button Layout Panel
  
         - X8 30mm Screw on Buttons
        
