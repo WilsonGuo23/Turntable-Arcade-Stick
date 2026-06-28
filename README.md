@@ -81,10 +81,4 @@ This design also has an easily removable panel on the bottom to service common i
 
 ![Example internal for arcade stick](https://github.com/user-attachments/assets/f0dc7469-5015-4602-a921-ed98e92b9e29)
   
-## Improvements to make in V2
 
-- Enclosure is a little too small, making it hard to design panels that fit well, will increase bottom panel size to 300mm from 280mm
-
-- Support pillars are 7mm wide and the bolt is 6.5mm wide at minimum, this causes printing issues. Support pillars should be increased to 8mm wide
-
-- Excessive flex in panels due to smaller wall widths. Extending small walls from the top panel as guides should reduce flex
